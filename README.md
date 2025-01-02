@@ -1,3 +1,3 @@
 # BROEXPLAINS
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Shauryan28/BROEXPLAINS)
+https://frolicking-starship-3a52d3.netlify.app/
